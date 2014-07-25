@@ -1,7 +1,5 @@
-Before beginning I ran
-`yo webapp` and selected all 3 choices, Bootstrap
+# Mystery box.
 
-1. Commented out all the JSHint stuff from grunt file
-2. Cleaned up HTML for require
-2. Ran  `bower install d3 knockout lodash https://github.com/reedspool/jquery-event-aggregator.git crossfilter --save`
-3. Wrote or imported `require.js, main.js, driver.js, q.no-require.js, knockout.mapping-latest.js`
+<blockquote>There is something unspeakably sinister about a machine that does nothing -- absolutely nothing -- except switch itself off. -- Arthur C. Clarke</blockquote>
+
+See the <a href="http://mystery-box.herokuapp.com/">Live demo here.</a> Perhaps "Undead demo" would be a better title.
