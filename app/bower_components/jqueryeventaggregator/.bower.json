@@ -1,0 +1,21 @@
+{
+  "name": "jqueryeventaggregator",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/reedspool/jquery-event-aggregator",
+  "_release": "e6e8686331",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e6e8686331637be9642d1503fcd868a066a66bfe"
+  },
+  "_source": "https://github.com/reedspool/jquery-event-aggregator.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/reedspool/jquery-event-aggregator.git",
+  "_direct": true
+}

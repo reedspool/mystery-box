@@ -1,0 +1,1 @@
+web: echo "Hello World!\n" && pwd && cd app/ && pwd && python -m SimpleHTTPServer $PORT
