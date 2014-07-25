@@ -91,3 +91,43 @@ body {
         border-bottom: 0;
     }
 }
+
+/* From Typed.js */
+#typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+/* End Typed.js */
+
+$widthTypewriter: 200px;
+.typewriter {
+    width: $widthTypewriter;
+    height: 500px;
+    margin-left: -0.5 * $widthTypewriter;
+
+    font-size: 16px;
+    font-family: "Arial", Arial;
+
+
+
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
